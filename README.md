@@ -1,7 +1,5 @@
 # PyLidar3
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/lakshmanmallidi/PyLidar3) [![license](https://img.shields.io/github/license/DAVFoundation/captain-n3m0.svg?style=flat-square)](https://github.com/lakshmanmallidi/PyLidar3/License)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flakshmanmallidi%2FPyLidar3.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flakshmanmallidi%2FPyLidar3?ref=badge_shield)
 <br />PyLidar3 is python 3 package to get data from Lidar device. Currently supports ydlidar from [www.ydlidar.com/]([www.ydlidar.com/).
 
 ## Source code
