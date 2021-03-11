@@ -185,10 +185,4 @@ else:
     print("Error connecting to device")
 
 ```
-## Testing
 
-A "tesing" branch is maintained in the git repository for testing, debugging and updating the code. Please visit Github repo [https://github.com/lakshmanmallidi/PyLidar3](https://github.com/lakshmanmallidi/PyLidar3) for further information. 
-
-
-## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flakshmanmallidi%2FPyLidar3.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Flakshmanmallidi%2FPyLidar3?ref=badge_large)
